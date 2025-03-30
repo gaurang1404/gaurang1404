@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gaurang and I'm an Information Science Student, at BMSCE</h2>
+<h2 align="left">Hi 👋! My name is Gaurang and I'm a Information Science Student, at BMSCE</h2>
 
 ###
 
@@ -59,8 +59,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img align="left" height="180" src="https://media3.giphy.com/media/9KCPkAcRqU9j2/200w.gif?cid=6c09b952mj376lbgbdpall2iky7k4eix1kum9pooa7t2iuif&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
