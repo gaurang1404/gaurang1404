@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gaurang and I'm a Information Science Student, at BMSCE</h2>
+<h2 align="left">Hi 👋! My name is Gaurang and I'm an Information Science Student, at BMSCE</h2>
 
 ###
 
