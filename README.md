@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋! My name is Gaurang and I'm a Information Science Student, at BMSCE</h2>
+<h2 align="left">Hi 👋! My name is Gaurang and I'm an Information Science Student, at BMSCE</h2>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gaurang1404/gaurang1404/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurang1404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurang1404&" height="150" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -59,14 +60,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/9KCPkAcRqU9j2/200w.gif?cid=6c09b952mj376lbgbdpall2iky7k4eix1kum9pooa7t2iuif&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<img align="left" height="180" src="https://media3.giphy.com/media/9KCPkAcRqU9j2/200w.gif?cid=6c09b952mj376lbgbdpall2iky7k4eix1kum9pooa7t2iuif&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gaurang1404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurang1404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/gaurang1404/gaurang1404/output/snake.svg" alt="Snake animation" />
 
 ###
->>>>>>> c992b23 (README)
