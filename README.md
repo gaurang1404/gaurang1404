@@ -12,10 +12,10 @@
 
 ```yaml
 name: Gaurang Ramesh Shirodkar
-role: Software Developer
+role: Software Engineer
 college: BMS College of Engineering '26 ISE
 focus: Cloud, DevOps, FSD, AI/ML & systems
-currently: working on some new devops ideas
+currently: on a break before full time 
 fun_fact: cats dont get cavities
 ```
 
